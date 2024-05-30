@@ -28,7 +28,7 @@ public class Perdorues {
 	private String Roli;
 	private String Email;
 	private String NrTel;
-
+7
 	public void shtimPerdoruesi(String username, String pass, String username1, String NID, String emri, String mbiemri,
 			String atesia, String gjinia, String dtl, String adresa, String dtFillimi, String fjalekalimi1,
 			String fjalekalimi2, Boolean shtoOrganigrame, String idDrejtorie, String roli, Boolean shtoMail,
